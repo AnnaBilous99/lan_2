@@ -1,6 +1,6 @@
 # lan_2
 lan_2
-Project Name: 
+Project Name: Coffee
 
 Description: this landing page is registration site to get free coffee. our establishment has recently opened and we would like to invite you for a cup of coffee
 
